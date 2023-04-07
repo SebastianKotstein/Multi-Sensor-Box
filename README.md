@@ -8,7 +8,6 @@ Hardware documentation for an ESP8266-based multi sensor box for measuring tempe
 * 2x 100 Ohm axial-lead resistors (type 0207)
 * 1x 10k Ohm axial-lead resistor (type 0207)
 * 1x 220 Ohm axial-lead resistor (type 0207)
-* 1x 220 Ohm axial-lead resistor (type 0207)
 * 1x 4.7k Ohm axial-lead resistor (type 0207)
 * 1x Tactile switch, 0,55 mm  (JTP 1236 series)
 * 1x Tactile switch, 5,85 mm (JTP 1236 series)
