@@ -13,7 +13,7 @@ Hardware documentation for an ESP8266-based multi sensor box for measuring tempe
 * 1x Tactile switch, 5,85 mm (JTP 1236 series)
 * 1x 1x10 2,54 mm male connector, angled
 * 1x 1x4 2,54 mm female connector
-* Optional: 1x4 2,54 mm female connector for an external I2C rear module
+* Optional: 1x 1x4 2,54 mm female connector for an external I2C rear module
 * 1x PIR HC-SR501 motion sensor
 * 1x DHT22 temperature and humidity sensor
 * 1x TSL2561 (GY-2561) digital light intensity sensor, shipped with 1x 1x5 2,54 mm male connector
