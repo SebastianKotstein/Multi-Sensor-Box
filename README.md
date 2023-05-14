@@ -1,6 +1,8 @@
 # Multi-Sensor-Box
 Hardware documentation for an ESP8266-based multi sensor box for measuring temperature, humidity, motion, and light intensity
 
+![image info](https://github.com/SebastianKotstein/Multi-Sensor-Box/blob/master/images/IMG_1093.jpg)
+
 ## Required Parts:
 * 1x ESP_Sensor_md_v1_2 PCB (see PCB layout on [OSHW](https://oshwlab.com/sebastiankotstein/Multi-Sensor-Box))
 * 1x Wemos D1 Mini ESP8266 breakout board (with or without external antenna), shipped with 2x 1x8 2,54 mm male connectors and 2x 1x8 2,54 mm female connectors
